@@ -1,0 +1,16 @@
+name: 2019_12_31-hacker_hero
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2019.11.27=0
+  - certifi=2019.11.28=py27_0
+  - pip=19.3.1=py27_0
+  - python=2.7.17=h930f6bb_0
+  - setuptools=42.0.2=py27_0
+  - sqlite=3.30.1=h0c8e037_0
+  - vc=9=h7299396_1
+  - vs2008_runtime=9.00.30729.1=hfaea7d5_1
+  - wheel=0.33.6=py27_0
+  - wincertstore=0.2=py27hf04cefb_0
+prefix: C:\Users\shuan\Miniconda3\envs\2019_12_31-hacker_hero
+
